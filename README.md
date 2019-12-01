@@ -9,4 +9,4 @@ This is an prototype app, try running this before the event to makesure all of y
 
 ## App
 If all goes well it should end up like this:
-![](doc/example.jpg)
+![](docs/example.jpg)
